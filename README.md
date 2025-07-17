@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAHU-G)](https://github.com/HAHU-G/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAGU-G)](https://github.com/HAGU-G/github-readme-stats)
 
 <!--
 **HAGU-G/HAGU-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
