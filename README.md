@@ -1,4 +1,4 @@
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/HAGU-G}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HAGU-G&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![HAGU-G's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAGU-G&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hagu)](https://solved.ac/hagu)
